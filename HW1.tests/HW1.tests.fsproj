@@ -10,6 +10,7 @@
   <ItemGroup>
     <Compile Include="Tests.fs" />
     <Compile Include="Program.fs" />
+    <None Include="myinfo.csv" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
   <ItemGroup>
