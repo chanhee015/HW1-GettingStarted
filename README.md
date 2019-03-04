@@ -1,9 +1,19 @@
 # HW1
 
+In this homework, you need to fix two files to pass the CI tests. We have a
+total of six tests, and your goal is to pass all the tests.
+
+### Prob 1
+
+Read and complete the Git tutorial (https://githowto.com/) and modify the
+`gitpractice.txt` file: change the word `no` to `yes`.
+
+### Prob 2
+
 Modify the `myinfo.csv` file in such a way that satisfies the following
 conditions:
-1. The very first line should have the exact string (no extra space chars
-   allows):
+1. The very first line should have the following string (no extra space chars
+   allowed):
 
     ```
     student_id,email,github_id
