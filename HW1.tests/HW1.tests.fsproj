@@ -11,6 +11,7 @@
     <Compile Include="Tests.fs" />
     <Compile Include="Program.fs" />
     <None Include="myinfo.csv" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="gitpractice.txt" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
   <ItemGroup>
