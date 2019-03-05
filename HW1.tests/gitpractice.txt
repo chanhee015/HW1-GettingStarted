@@ -1,4 +1,4 @@
 Did you finish reading the Git tutorial (https://githowto.com)?
-> No
+> yes
   ---
   By changing the above to "Yes", you certify that you have read the tutorial.
